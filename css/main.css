@@ -1,0 +1,14 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#counter-sum {
+    background-color: blue;
+}
+
+#counter { 
+    background-color: orange;
+}
